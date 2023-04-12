@@ -2,7 +2,6 @@ README.md
 -------------------------
 
 This folder contains artifacts related to the final project submission of Vineeth NC, Tejaswini Manjunath, and Sai Charita Thati for CMSC 678 - Introduction to Machine Learning, Spring 2022. The project deals with using GANs for data augmentation for image classifiers.
-https://drive.google.com/drive/folders/1r6LGINxsPD_pfNdMceWEeXQkEGw_NfEM
 The artifact zip directory structure is as follows:
 
 * CODE
